@@ -1,16 +1,16 @@
-## Hi there 👋
+### Привет, я Валерия! 👋
 
-<!--
-**GhostMeML/GhostMeML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Unity-разработчик и геймдизайнер с инженерным образованием. Специализируюсь на создании надежной архитектуры, геймплейных механик и кастомных инструментов для редактора.
 
-Here are some ideas to get you started:
+🛠 Технологии и инструменты:
+*   **Движок и язык:** Unity (2D/3D, Physics), C#
+*   **UI и редактор:** UI Toolkit, UI Builder, Editor Scripting
+*   **IDE и контроль версий:** JetBrains Rider, Git, GitHub
+*   **Ключевые навыки:** ООП, Паттерны проектирования, Системная архитектура, Математический баланс
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Чем я занимаюсь:
+*   Разрабатываю игровые проекты полного цикла: от проектирования механик до финальных билдов.
+
+📫 Как со мной связаться:
+*   Telegram: @Ghost_MeM
+*   Email: lerasan0@mail.ru
