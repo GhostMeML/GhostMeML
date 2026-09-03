@@ -16,5 +16,5 @@
 
 ### Контакты
 
-* **Telegram:** [@Ghost_MeM]
-* **Email:** [lerasan0@mail.ru]
+* **Telegram:** @Ghost_MeM
+* **Email:** lerasan0@mail.ru
